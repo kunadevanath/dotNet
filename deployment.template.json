@@ -7,7 +7,7 @@
         "runtime": {
           "type": "docker",
           "settings": {
-            "minDockerVersion": "v1.25",
+            "minDockerVersion": "v1.26",
             "loggingOptions": "",
             "registryCredentials": {
               "my_acr": {
